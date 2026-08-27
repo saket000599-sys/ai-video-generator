@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Editor",
+  "description": "Create, generate, edit, and assemble cinematic video clips using text prompts, multi-track timeline, AI voiceovers, and dynamic video composition.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
